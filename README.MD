@@ -1,5 +1,5 @@
 ### Olá! meu nome é Mateus 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/mateusoliveirag7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusoliveirag7)
 
 ![Mateus git status](https://github-readme-stats.vercel.app/api?username=Mat3usD3v738&theme=dracula)
 
