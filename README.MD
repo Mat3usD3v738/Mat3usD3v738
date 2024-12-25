@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Mateus 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusoliveirag7)
 
-![Mateus git status](https://github-readme-stats.vercel.app/api?username=Mat3usDev231&theme=dracula)  
+![Mateus git status](https://github-readme-stats.vercel.app/api?username=Mat3usDev231&theme=blue-green)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat3usDev231&theme=blue-green)
 
 ## Tecnologias que uso:
